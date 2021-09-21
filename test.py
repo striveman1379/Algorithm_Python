@@ -6,11 +6,11 @@
 @time: 2021/8/6 10:18
 '''
 
-import unittest
-
-from dataStructures_and_algorithms.stack_01 import MyStack
-
-stack = MyStack()
+# import unittest
+#
+# from dataStructures_and_algorithms.chapter3_stackApply.stack_01 import MyStack
+#
+# stack = MyStack()
 # print(stack.isEmpty())
 # # suite.addTest(stack.isEmpty())
 # stack.isEmpty()
@@ -31,10 +31,18 @@ stack = MyStack()
 # print(stack.isEmpty())
 #
 # print(stack.sizeItems())
-
-if __name__ == '__main__':
-    suite = unittest.TestSuite()
+#
+# if __name__ == '__main__':
+#     suite = unittest.TestSuite()
     # stack = MyStack()
     # suite.addTest(print(stack.isEmpty()))
     # suite.run(print(stack.isEmpty()))
     # suite.countTestCases(print(stack.isEmpty()))
+
+class Aa():
+    def run(self):
+        print("aaaaaa")
+
+
+
+Aa()

@@ -17,4 +17,4 @@ def bubble_sort(list):
 
 
 if __name__ == '__main__':
-        print(bubble_sort(list))
+    print(bubble_sort(list))
