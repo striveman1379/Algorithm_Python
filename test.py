@@ -38,11 +38,3 @@
     # suite.addTest(print(stack.isEmpty()))
     # suite.run(print(stack.isEmpty()))
     # suite.countTestCases(print(stack.isEmpty()))
-
-class Aa():
-    def run(self):
-        print("aaaaaa")
-
-
-
-Aa()
